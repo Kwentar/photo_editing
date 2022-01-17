@@ -1,2 +1,2 @@
-# photo_edititing
+# photo_editing
 Popular photo editing techniques
